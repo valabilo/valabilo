@@ -5,6 +5,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_v4-38BDF8?logo=tailwindcss&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valabilo&theme=dark&show_icons=true&hide_border=true)
 
 QA Engineer II · React 19 · Laravel 12 · Playwright · Postman · Jira
